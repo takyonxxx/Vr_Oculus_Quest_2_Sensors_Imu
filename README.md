@@ -2,6 +2,8 @@
  Vr_Oculus_Quest_2_Sensors_Imu Read Values</br>
  Build 2 times for fixing package cache errors.
  
+ Vr_Oculus_Quest_2_Sensors_Imu/Assets/Scripts/VrSensor.cs
+ 
 ```
 using System.Collections;
 using System.Collections.Generic;
