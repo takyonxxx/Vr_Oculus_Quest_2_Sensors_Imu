@@ -1,8 +1,11 @@
 # Vr_Oculus_Quest_2_Sensors_Imu
- Vr_Oculus_Quest_2_Sensors_Imu Read Values</br>
- Build 2 times for fixing package cache errors.
+ Vr_Oculus_Quest_2_Sensors_Imu Read Values\
+ Build 2 times for fixing package cache errors.\
+ Check if Oculus XR Plugin enabled. If not follow instructions:\
+ [https://docs.unity3d.com/Packages/com.unity.xr.oculus@0.8/manual/index.html]
  
- Vr_Oculus_Quest_2_Sensors_Imu/Assets/Scenes/VrDevices.unity</br>
+ 
+ Vr_Oculus_Quest_2_Sensors_Imu/Assets/Scenes/VrDevices.unity\
  Vr_Oculus_Quest_2_Sensors_Imu/Assets/Scripts/VrSensor.cs
  
 ```
