@@ -87,7 +87,7 @@ public class VrSensor : MonoBehaviour
     {
        
         //Get device if not valid
-        /* if (!deviceCenterEye.isValid)
+         if (!deviceCenterEye.isValid)
         {
             GetDevice();
         }
@@ -120,7 +120,7 @@ public class VrSensor : MonoBehaviour
         info += "Left  TRig: " + LeftHandTrigger.ToString("F2") +"\n";
         info += "Right TRig: " + RightHandTrigger.ToString("F2");
 
-        textInfo.text = info;*/
+        textInfo.text = info;
     }
   
     public void ExitApp()

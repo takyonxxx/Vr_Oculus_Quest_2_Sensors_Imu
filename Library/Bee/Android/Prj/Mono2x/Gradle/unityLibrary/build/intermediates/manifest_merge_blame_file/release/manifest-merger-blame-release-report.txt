@@ -8,190 +8,190 @@
 8
 9    <uses-sdk
 10        android:minSdkVersion="23"
-10-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 11        android:targetSdkVersion="30" />
-11-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 12
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-79
-13-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-76
+13-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-79
+13-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-76
 14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-14-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-72
-14-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-69
+14-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-72
+14-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-69
 15    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
-15-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-77
-15-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-74
+15-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-77
+15-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-74
 16
 17    <uses-feature
-17-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-89
+17-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-89
 18        android:name="android.hardware.bluetooth_le"
-18-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-61
+18-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-61
 19        android:required="false" />
-19-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:62-86
+19-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:62-86
 20
 21    <supports-screens
-21-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-163
+21-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-163
 22        android:anyDensity="true"
-22-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:135-160
+22-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:135-160
 23        android:largeScreens="true"
-23-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:78-105
+23-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:78-105
 24        android:normalScreens="true"
-24-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:49-77
+24-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:49-77
 25        android:smallScreens="true"
-25-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:21-48
+25-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:21-48
 26        android:xlargeScreens="true" />
-26-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:106-134
+26-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:106-134
 27
 28    <uses-feature android:glEsVersion="0x00020000" />
-28-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-52
-28-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-49
+28-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-52
+28-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-49
 29
 30    <uses-permission android:name="android.permission.INTERNET" />
-30-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-65
-30-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:20-62
+30-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-65
+30-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:20-62
 31
 32    <uses-feature
-32-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-88
+32-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-88
 33        android:name="android.hardware.touchscreen"
-33-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-60
+33-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-60
 34        android:required="false" />
-34-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:61-85
+34-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:61-85
 35    <uses-feature
-35-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-99
+35-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-99
 36        android:name="android.hardware.touchscreen.multitouch"
-36-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-71
+36-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-71
 37        android:required="false" />
-37-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:72-96
+37-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:72-96
 38    <uses-feature
-38-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-108
+38-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-108
 39        android:name="android.hardware.touchscreen.multitouch.distinct"
-39-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:17-80
+39-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:17-80
 40        android:required="false" />
-40-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:81-105
+40-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:81-105
 41    <uses-feature
-41-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-111
+41-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-111
 42        android:name="android.hardware.vr.headtracking"
-42-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-64
+42-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-64
 43        android:required="true"
-43-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:65-88
+43-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:65-88
 44        android:version="1" />
-44-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:89-108
+44-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:89-108
 45
 46    <application
-46-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-28:17
+46-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-28:17
 47        android:extractNativeLibs="true"
-47-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:123-155
+47-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:123-155
 48        android:icon="@mipmap/app_icon"
-48-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:58-89
+48-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:58-89
 49        android:isGame="true"
-49-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:156-177
+49-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:156-177
 50        android:label="@string/app_name"
-50-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:90-122
+50-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:90-122
 51        android:theme="@style/UnityThemeSelector" >
-51-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-57
+51-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-57
 52        <activity
-52-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-19:16
+52-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-19:16
 53            android:name="com.unity3d.player.UnityPlayerActivity"
-53-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:15-68
+53-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:15-68
 54            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
-54-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:172-273
+54-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:172-273
 55            android:hardwareAccelerated="false"
-55-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:309-344
+55-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:309-344
 56            android:label="@string/app_name"
-56-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:69-101
+56-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:69-101
 57            android:launchMode="singleTask"
-57-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:140-171
+57-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:140-171
 58            android:resizeableActivity="false"
-58-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:274-308
+58-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:274-308
 59            android:screenOrientation="landscape"
-59-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:102-139
+59-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:102-139
 60            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-60-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:345-409
+60-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:345-409
 61            <intent-filter>
-61-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-15:23
+61-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-15:23
 62                <action android:name="android.intent.action.MAIN" />
-62-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:9-61
-62-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-58
+62-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:9-61
+62-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-58
 63
 64                <category android:name="android.intent.category.LAUNCHER" />
-64-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:9-69
-64-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:19-66
+64-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:9-69
+64-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:19-66
 65                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-65-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:9-78
-65-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:19-75
+65-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:9-78
+65-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:19-75
 66                <category android:name="com.oculus.intent.category.VR" />
-66-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:9-66
-66-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:19-63
+66-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:9-66
+66-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:19-63
 67            </intent-filter>
 68
 69            <meta-data
-69-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-82
+69-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-82
 70                android:name="unityplayer.UnityActivity"
-70-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:18-58
+70-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:18-58
 71                android:value="true" />
-71-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:59-79
+71-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:59-79
 72            <meta-data
-72-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-78
+72-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-78
 73                android:name="android.notch_support"
-73-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:18-54
+73-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:18-54
 74                android:value="true" />
-74-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
+74-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
 75            <meta-data
-75-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-81
+75-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-81
 76                android:name="com.oculus.vr.focusaware"
-76-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:18-57
+76-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:18-57
 77                android:value="true" />
-77-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:58-78
+77-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:58-78
 78        </activity>
 79
 80        <meta-data
-80-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-69
+80-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-69
 81            android:name="unity.splash-mode"
-81-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-48
+81-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-48
 82            android:value="0" />
-82-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:49-66
+82-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:49-66
 83        <meta-data
-83-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-74
+83-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-74
 84            android:name="unity.splash-enable"
-84-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-50
+84-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-50
 85            android:value="True" />
-85-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:51-71
+85-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:51-71
 86        <meta-data
-86-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-78
+86-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-78
 87            android:name="unity.launch-fullscreen"
-87-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-54
+87-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-54
 88            android:value="True" />
-88-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:55-75
+88-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:55-75
 89        <meta-data
-89-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-84
+89-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-84
 90            android:name="unity.allow-resizable-window"
-90-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-59
+90-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-59
 91            android:value="False" />
-91-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:60-81
+91-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:60-81
 92        <meta-data
-92-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-81
+92-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-81
 93            android:name="notch.config"
-93-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-43
+93-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-43
 94            android:value="portrait|landscape" />
-94-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:44-78
+94-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:44-78
 95        <meta-data
-95-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-97
+95-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-97
 96            android:name="com.samsung.android.vr.application.mode"
-96-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-70
+96-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-70
 97            android:value="vr_only" />
-97-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:71-94
+97-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:71-94
 98        <meta-data
-98-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-91
+98-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-91
 99            android:name="com.unity.xr.oculus.LowOverheadMode"
-99-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-66
+99-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-66
 100            android:value="false" />
-100-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:67-88
+100-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:67-88
 101        <meta-data
-101-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-90
+101-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-90
 102            android:name="com.oculus.supportedDevices"
-102-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-58
+102-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-58
 103            android:value="quest|quest2" />
-103-->C:\Users\turka\Desktop\VrDevices\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:59-87
+103-->C:\Users\turka\Desktop\Vr_Oculus_Quest_2_Sensors_Imu\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:59-87
 104    </application>
 105
 106</manifest>
