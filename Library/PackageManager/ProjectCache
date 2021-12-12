@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/turka/Desktop/VrDevices/Packages
-m_EditorVersion: 2021.2.5f1 (4ec9a5e799f5)
+m_EditorVersion: 2021.2.6f1 (8c4e826ba445)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -185,8 +185,10 @@ m_ResolvedPackages:
     - 3.7.1
     - 3.7.3
     - 3.7.5
+    - 4.0.0
     compatible:
     - 3.7.5
+    - 4.0.0
     verified: 3.7.5
   dependencies:
   - name: com.unity.ugui

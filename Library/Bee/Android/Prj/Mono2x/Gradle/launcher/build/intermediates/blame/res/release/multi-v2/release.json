@@ -81,6 +81,30 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "C:\\Users\\turka\\Desktop\\VrDevices\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\res\\merged\\release\\values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\turka\\Desktop\\VrDevices\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
         }
     ]
 }

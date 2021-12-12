@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,11 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.XR;
 using XRStats = Unity.XR.Oculus.Stats;
+using tbiliyor.bluetooth;
+
+#if PLATFORM_ANDROID
+using UnityEngine.Android;
+#endif
 
 public class VrSensor : MonoBehaviour
 {
@@ -25,15 +31,35 @@ public class VrSensor : MonoBehaviour
     private Vector3 LeftHandPos;
     private float LeftHandTrigger;
 
+    static int LogLines = 0;
+    private bool IsConnected;
 
     // Start is called before the first frame update
     void Start()
     {       
         textInfo = GameObject.Find("textInfo").GetComponent<TextMeshProUGUI>();
-        textInfo.text = "---";
+        textInfo.text = "..." + "\n";
         
         buttonExit = GameObject.Find("buttonExit").GetComponent<Button>();
         buttonExit.onClick.AddListener(ExitApp);
+
+        IsConnected = false;
+
+        var ba = BluetoothAdapter.getDefaultAdapter();
+        textInfo.text += ba.getName();
+    }
+   
+    public void Log(string format, params object[] args)
+    {
+        var msg = string.Format(format, args);
+        textInfo.text += msg + "\n";
+        Debug.Log(msg);
+        if ((LogLines += 1) > 32)
+        {/* trim away first line */
+            var log = textInfo.text;
+            textInfo.text = log.Substring(log.IndexOf('\n') + 1);
+            LogLines -= 1;
+        }
     }
 
     void GetDevice()
@@ -50,7 +76,7 @@ public class VrSensor : MonoBehaviour
 
     void OnEnable()
     {
-        if (!deviceCenterEye.isValid || !deviceLeftController.isValid || !deviceRightController.isValid)
+        if (!deviceCenterEye.isValid)
         {
             GetDevice();
         }
@@ -59,8 +85,9 @@ public class VrSensor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       
         //Get device if not valid
-        if (!deviceCenterEye.isValid || !deviceLeftController.isValid || !deviceRightController.isValid)
+        /* if (!deviceCenterEye.isValid)
         {
             GetDevice();
         }
@@ -85,13 +112,7 @@ public class VrSensor : MonoBehaviour
 
         string info = "";
 
-        info = "Device Name : " + SystemInfo.deviceName + "\n";
-        /*info += "maxTextureSize : " + SystemInfo.maxTextureSize.ToString() + "\n";
-        info += "operatingSystem : " + SystemInfo.operatingSystem + "\n";
-        info += "processorFrequency : " + SystemInfo.processorFrequency.ToString() + "\n";
-        info += "systemMemorySize : " + SystemInfo.systemMemorySize.ToString() + "\n";
-        info += "PluginVersion : " + XRStats.PluginVersion + "\n";
-        info += "BatteryLevel : " + SystemInfo.batteryLevel.ToString("F2") + "\n";*/
+        info = "Device Name : " + SystemInfo.deviceName + "\n";      
         info += "\n";
         info += "Pos:   " + EyePos.ToString() + "\n";
         info += "IMU X: " + EyeRotation.x.ToString("F2") + " Y: " + EyeRotation.y.ToString("F2") + " Z: " + EyeRotation.z.ToString("F2") + "\n";
@@ -99,7 +120,7 @@ public class VrSensor : MonoBehaviour
         info += "Left  TRig: " + LeftHandTrigger.ToString("F2") +"\n";
         info += "Right TRig: " + RightHandTrigger.ToString("F2");
 
-        textInfo.text = info;
+        textInfo.text = info;*/
     }
   
     public void ExitApp()
